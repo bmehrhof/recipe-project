@@ -1,0 +1,36 @@
+
+.heading { font-family: 'Lobster', cursive; text-align: center; font-size: 100px; }
+
+.ingredients { font-family: 'Josefin Sans', sans-serif;text-align: center;}
+
+.h2 {font-family: 'Josefin Sans', sans-serif;font-weight: 200; text-align: center;}
+
+ .text {font-family: 'Josefin Sans', sans-serif;font-weight: 200; list-style-position: outside; display: flex; justify-content: center; }
+
+
+ .directions{font-family: 'Josefin Sans', sans-serif;font-weight: 200; text-align: center;}
+
+ 
+ .description {font-family: 'Josefin Sans', sans-serif; font-size: 45%; text-align: center;
+ }
+ 
+.h1 {font-family: 'Josefin Sans', sans-serif;text-align: center;}
+
+
+.center {display: block;margin-left: auto;margin-right: auto; text-align: center;}
+
+.socialmedia {text-align: center; font-size:75%}
+
+body {background-color:white}
+
+
+.rightimage { float:right;}
+
+.strawhands1 {float: left;}
+
+.cheesecake {text-align: center;}
+
+
+
+
+
